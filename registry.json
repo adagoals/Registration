@@ -2954,5 +2954,19 @@
     "telegram": "StakeWithPride",
     "operatorName": "",
     "github": ""
-  }
+  },
+  {
+ "ticker": "GOALS",                                                       # Mandatory
+ "poolId": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",  # Mandatory
+ "social": {                                                            # At least 1 Mandatory more optional
+   "twitter": "ADAgoals",
+   "facebook": " ",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "ADA_Goals_stake_pool",                                             # Mandatory Personal Telegram Handle
+ "operatorName": " ",                                   # Optional
+ "github": " "                                                     # Optional
+}
+
 ]
