@@ -2954,5 +2954,20 @@
     "telegram": "StakeWithPride",
     "operatorName": "",
     "github": ""
+  },
+  {
+    "ticker": "GOALS",
+    "poolId": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",
+    "social": {
+      "twitter": "ADAgoals",
+      "facebook": "",
+      "reddit": "",
+      "instagram": "",
+      "website": "ada-goals.com",
+      "youtube": ""
+    },
+    "telegram": "ADA_Goals_Stake_Pool",
+    "operatorName": "",
+    "github": ""
   }
 ]
